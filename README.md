@@ -39,10 +39,12 @@ Frankly there is no right answer. Most large projects like Wordpress, Drupal or 
 I learnt C++ and C in college. Where can I use it? Why scripting languages like Python seem popular?
 ====================================================================================================
 C and C++ are compiled languages which required involved understanding of data. 
+
 	* **Construction** How data will be created? 
 	* **Type** What will be shape of data?
 	* **Interface** How data will flow from one module to another?
 	* **Destruction** When will data be removed from memory?
+
 This takes time. Many software engineering jobs do not provide enough time and Python another scripting languages have far easier data flow requirements. 
 
 C and C++ are still main stay of system programing, where performance matters more than ease of coding.
@@ -50,6 +52,7 @@ C and C++ are still main stay of system programing, where performance matters mo
 I have learnt Python. For finding jobs in Python, what are the key skills? What are popular Jobs site?
 ======================================================================================================
 Python is used extensively in the industry. It is rated second in top most languages used in industry. The appeal of language is wide and so is its application. As a very non-comprehensive list of key skills related to python
+
 	* Web framework - django, flask
 	* Database - Psycopg2, pymongo
 	* Core - urllib2, csv, sys, collections, threading
@@ -58,6 +61,7 @@ Python is used extensively in the industry. It is rated second in top most langu
 	* Time Series Analysis - zipline
 
 Looking for jobs 
+
 	* Python website has a job board
 	* Django Jobs
 	* Github jobs
