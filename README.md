@@ -21,10 +21,10 @@ Before making my site public, what are the basic things to check or implement?
 ==============================================================================
  The list of things to take care is very large but these are basics which are pretty important
 
- 	* Use HTTPS in production since it helps maintain your sites consumers privacy 
- 	* Hash the password before storing anywhere. Secure the location where users data is stored
- 	* Validated every input from the users. You never know which input, people can use to escalate priviledges on your site
- 	* Check each form for cross site scripting. There can be exceptions, just be aware which forms are exceptions
+ * Use HTTPS in production since it helps maintain your sites consumers privacy 
+ * Hash the password before storing anywhere. Secure the location where users data is stored
+ * Validated every input from the users. You never know which input, people can use to escalate priviledges on your site
+ * Check each form for cross site scripting. There can be exceptions, just be aware which forms are exceptions
 
 What is the best setup for development, Mac OS X, Windows or Linux?
 ===================================================================
@@ -40,10 +40,10 @@ I learnt C++ and C in college. Where can I use it? Why scripting languages like 
 ====================================================================================================
 C and C++ are compiled languages which required involved understanding of data. 
 
-	* **Construction** How data will be created? 
-	* **Type** What will be shape of data?
-	* **Interface** How data will flow from one module to another?
-	* **Destruction** When will data be removed from memory?
+* **Construction** How data will be created? 
+* **Type** What will be shape of data?
+* **Interface** How data will flow from one module to another?
+* **Destruction** When will data be removed from memory?
 
 This takes time. Many software engineering jobs do not provide enough time and Python another scripting languages have far easier data flow requirements. 
 
@@ -53,20 +53,20 @@ I have learnt Python. For finding jobs in Python, what are the key skills? What 
 ======================================================================================================
 Python is used extensively in the industry. It is rated second in top most languages used in industry. The appeal of language is wide and so is its application. As a very non-comprehensive list of key skills related to python
 
-	* Web framework - django, flask
-	* Database - Psycopg2, pymongo
-	* Core - urllib2, csv, sys, collections, threading
-	* Machine learning - Tensorflow, caffe2, sklearn
-	* Data Analytics - pandas
-	* Time Series Analysis - zipline
+* Web framework - django, flask
+* Database - Psycopg2, pymongo
+* Core - urllib2, csv, sys, collections, threading
+* Machine learning - Tensorflow, caffe2, sklearn
+* Data Analytics - pandas
+* Time Series Analysis - zipline
 
 Looking for jobs 
 
-	* Python website has a job board
-	* Django Jobs
-	* Github jobs
-	* Stackoverflow jobs
-	* We work remotely
+* Python website has a job board
+* Django Jobs
+* Github jobs
+* Stackoverflow jobs
+* We work remotely
 
 
 
