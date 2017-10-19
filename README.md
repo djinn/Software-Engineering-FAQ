@@ -9,6 +9,19 @@ On server side, Java, PHP, C#, Javascript, Python, Ruby are dominant languages. 
 
 Server-Side often called Backend and Client-Side is mentioned as Frontend.
 
+Github repositories for popular Server-Side frameworks
+* Java - [zk](https://github.com/zkoss/zk), [akka](https://github.com/akka/akka), [play framework](https://github.com/akka/akka), [resty](https://github.com/Dreampie/Resty)
+* PHP - [laraval](https://github.com/laravel/laravel), [symfony](https://github.com/laravel/laravel), [CodeIgniter](https://github.com/bcit-ci/CodeIgniter), [yii2](https://github.com/yiisoft/yii2)
+* C# - [nancy](https://github.com/NancyFx/Nancy), [Piranha](https://github.com/PiranhaCMS/Piranha), [web](https://github.com/neosmart/web)
+* Javascript - [express](https://github.com/expressjs/express), [serverless](https://github.com/serverless/serverless)
+* Python - [django](https://github.com/django/django), [tornado](https://github.com/tornadoweb/tornado), [bottle](https://github.com/bottlepy/bottle)
+* Ruby - [Rails](https://github.com/rails/rails), [sinatra](https://github.com/sinatra/sinatra), [grape](https://github.com/ruby-grape/grape)
+
+Github repositories for popular Client-Side frameworks
+[react](https://github.com/facebook/react), [vue](https://github.com/vuejs/vue), [angular](https://github.com/angular/angular.js), [jquery](https://github.com/jquery/jquery)
+
+
+
 I learnt Java in my college. Now I find many people hating Java. Why?
 =====================================================================
 [Java](http://amzn.to/2xQArq8) was designed for [Object Oriented Programming](http://amzn.to/2yywTuF). In this context, it still has large appeal. Meanwhile, client side applications were transplanted by web applications. Java for this purpose comes across as over-engineered and clunky. The [Java Enterprise framework](http://amzn.to/2gRy5Sn) has lost ground to more agile frameworks like [Express](http://amzn.to/2xRDl2R), [Ruby on Rails](http://amzn.to/2xRM7O6) and [Django](http://amzn.to/2yxtdZV). Because of developer interest in these frameworks, many evolving technologies like [Cloud Computing](http://amzn.to/2yz3MZA), [noSQL](http://amzn.to/2xS4BhK) made heavy bets on these frameworks. There is strong awareness in Java community to walk in-step with current trends and we find frameworks like [Play](http://amzn.to/2xRm1ej) have been build to cater to startup web developer audience. Another technology sector where Java still dominates with [Hadoop](http://amzn.to/2gtknrJ) is [Big Data](http://amzn.to/2xQ1pOv). Java Runtime or Java Virtual Machine is also being used as runtime target by languages like [Scala](http://amzn.to/2yyL9DA) and [JRuby](http://amzn.to/2yTVwVo) because of high performance characteristics.
