@@ -1,21 +1,21 @@
-# FAQ about Software Engineering for new developer
-Questions which occur to us however we hesitate to ask
+# Software Engineering questions from freshers and thier answers
+Questions we hesitate to ask not to be deemed dumb, stupid or naive.
 
 What is the difference between Server-Side and Client-Side Programing?
 ======================================================================
-This question today falls mostly in context of web. In context of web, client which is mostly browser, requests server using protocol HTTP to get content. Server Side program would be run on this server to fetch content from database, files or another server. This content is converted for many possible initial formats like SQL, file stream or JSON into two dominant forms HTML or JSON. All this is done on Server-Side. After result is sent back, on client Client-Side language could pick up this content and further process it for users viewing. 
+This question today falls mostly in context of [web](https://en.wikipedia.org/wiki/World_Wide_Web). In context of web, client which is mostly [browser](https://en.wikipedia.org/wiki/Web_browser), requests server using protocol [HTTP](http://amzn.to/2yzHhSY) to get content. Server Side program would be run on this server to fetch content from database, files or another server. This content is converted for many possible initial formats like [SQL](http://amzn.to/2xPxAgZ), file stream or [JSON](http://amzn.to/2gPILR9) into two dominant forms [HTML](http://amzn.to/2zAdA43) or JSON. All this is done on Server-Side. After result is sent back, on client Client-Side language could pick up this content and further process it for users viewing. 
 
-On server side, Java, PHP, C#, Javascript, Python, Ruby are dominant languages. On client side browser can only execute Javascript.
+On server side, Java, PHP, C#, Javascript, Python, Ruby are dominant languages. On client side browser can only execute [Javascript](http://amzn.to/2zxXo3v).
 
 Server-Side often called Backend and Client-Side is mentioned as Frontend.
 
 I learnt Java in my college. Now I find many people hating Java. Why?
 =====================================================================
-Java was designed for Object Oriented Programming. In this context, it still has large appeal. Meanwhile, client side applications were transplanted by web applications. Java for this purpose comes across as over-engineered and clunky. The Java Enterprise framework has lost ground to more agile frameworks like Express, Ruby on Rails and Django. Because of developer interest in these frameworks, many evolving technologies like Cloud Computing, noSQL made heavy bets on these frameworks. There is strong awareness in Java community to walk in-step with current trends and we find frameworks like Play have been build to cater to startup web developer audience. Another technology sector where Java still dominates with Hadoop is Big Data. Java Runtime or Java Virtual Machine is also being used as runtime target by languages like Scala and JRuby because of high performance characteristics.
+[Java](http://amzn.to/2xQArq8) was designed for [Object Oriented Programming](http://amzn.to/2yywTuF). In this context, it still has large appeal. Meanwhile, client side applications were transplanted by web applications. Java for this purpose comes across as over-engineered and clunky. The [Java Enterprise framework](http://amzn.to/2gRy5Sn) has lost ground to more agile frameworks like [Express](http://amzn.to/2xRDl2R), [Ruby on Rails](http://amzn.to/2xRM7O6) and [Django](http://amzn.to/2yxtdZV). Because of developer interest in these frameworks, many evolving technologies like [Cloud Computing](http://amzn.to/2yz3MZA), [noSQL](http://amzn.to/2xS4BhK) made heavy bets on these frameworks. There is strong awareness in Java community to walk in-step with current trends and we find frameworks like [Play](http://amzn.to/2xRm1ej) have been build to cater to startup web developer audience. Another technology sector where Java still dominates with [Hadoop](http://amzn.to/2gtknrJ) is [Big Data](http://amzn.to/2xQ1pOv). Java Runtime or Java Virtual Machine is also being used as runtime target by languages like [Scala](http://amzn.to/2yyL9DA) and [JRuby](http://amzn.to/2yTVwVo) because of high performance characteristics.
 
 For writing my new game, should I use DirectX or OpenGL?
 ========================================================
-Based on many informed views, take which ever you find easier to code. DirectX largely restricts you to Windows and Xbox as target. But it is a pretty large target. Arguably, DirectX API is easier to step in and start learning. OpenGL has a wider support although, it is harder to grapple as a new developer. There are many libararies like SDL which abstract OpenGL for most part but it will not have as wide support base as DirectX.
+Based on many informed views, take which ever you find easier to code. [DirectX](http://amzn.to/2yTdG9R) largely restricts you to Windows and Xbox as target. But it is a pretty large target. Arguably, DirectX API is easier to step in and start learning. [OpenGL](http://amzn.to/2xQ6bRf) has a wider support although, it is harder to grapple as a new developer. There are many libararies like [SDL](http://amzn.to/2zzxM6h) which abstract OpenGL for most part but it will not have as wide support base as DirectX.
 
 Before making my site public, what are the basic things to check or implement?
 ==============================================================================
