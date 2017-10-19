@@ -1,4 +1,4 @@
-# Software Engineering questions from freshers and thier answers
+# Software Engineering questions from freshers and their answers
 Questions we hesitate to ask not to be deemed dumb, stupid or naive.
 
 What is the difference between Server-Side and Client-Side Programing?
