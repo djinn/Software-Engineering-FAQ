@@ -17,7 +17,7 @@ Github repositories for popular Server-Side frameworks
 * Python - [django](https://github.com/django/django), [tornado](https://github.com/tornadoweb/tornado), [bottle](https://github.com/bottlepy/bottle)
 * Ruby - [Rails](https://github.com/rails/rails), [sinatra](https://github.com/sinatra/sinatra), [grape](https://github.com/ruby-grape/grape)
 
-Github repositories for popular Client-Side frameworks
+Github repositories for popular Client-Side frameworks are
 [react](https://github.com/facebook/react), [vue](https://github.com/vuejs/vue), [angular](https://github.com/angular/angular.js), [jquery](https://github.com/jquery/jquery)
 
 
