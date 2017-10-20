@@ -1,6 +1,19 @@
 # Software Engineering questions from freshers and their answers
 Questions we hesitate to ask not to be deemed dumb, stupid or naive.
 
+Can I find popular interview questions?
+=======================================
+Github repositories of interview questions and solutions
+
+* [Frontend developer interview questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
+* [Awesome interview questions](https://github.com/MaximAbramchuck/awesome-interview-questions)
+* [Android interview questions and answers](https://github.com/MaximAbramchuck/awesome-interview-questions)
+* [Linux sysadmin/devops questions and answers](https://github.com/chassing/linux-sysadmin-interview-questions)
+* [iOS/iPhone developer and designer interview questions](https://github.com/9magnets/iOS-Developer-and-Designer-Interview-Questions)
+* [Backend developer interview questions](https://github.com/arialdomartini/Back-End-Developer-Interview-Questions)
+* [Diary of programming puzzles](https://github.com/davidadamojr/diary_of_programming_puzzles)
+
+
 What is the difference between Server-Side and Client-Side Programing?
 ======================================================================
 This question today falls mostly in context of [web](https://en.wikipedia.org/wiki/World_Wide_Web). In context of web, client which is mostly [browser](https://en.wikipedia.org/wiki/Web_browser), requests server using protocol [HTTP](http://amzn.to/2yzHhSY) to get content. Server Side program would be run on this server to fetch content from database, files or another server. This content is converted for many possible initial formats like [SQL](http://amzn.to/2xPxAgZ), file stream or [JSON](http://amzn.to/2gPILR9) into two dominant forms [HTML](http://amzn.to/2zAdA43) or JSON. All this is done on Server-Side. After result is sent back, on client Client-Side language could pick up this content and further process it for users viewing. 
