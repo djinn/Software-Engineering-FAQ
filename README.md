@@ -13,6 +13,16 @@ Github repositories of interview questions and solutions
 * [Backend developer interview questions](https://github.com/arialdomartini/Back-End-Developer-Interview-Questions)
 * [Diary of programming puzzles](https://github.com/davidadamojr/diary_of_programming_puzzles)
 
+Popular books for job interviews
+
+* [Cracking the coding interview](http://amzn.to/2yAvtRQ)
+* [Programming Interviews Exposed](http://amzn.to/2zClvhp)
+* [Cracking the PM Interview](http://amzn.to/2l5Zfth)
+* [Elements of Programming Interviews](http://amzn.to/2l3n2JZ)
+* [Elements of Programming Interviews in Python](http://amzn.to/2zC0vaE)
+* [The Algorithm Design Manual](http://amzn.to/2hRB90e)
+* [Elements of Programming Interviews in Java](http://amzn.to/2l2VdSg)
+
 
 What is the difference between Server-Side and Client-Side Programing?
 ======================================================================
