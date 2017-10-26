@@ -1,5 +1,6 @@
 # Software Engineering questions from freshers and their answers
 Questions we hesitate to ask not to be deemed dumb, stupid or naive.
+
 [![Support via Gratipay](https://cdn.rawgit.com/gratipay/gratipay-badge/2.3.0/dist/gratipay.png)](https://gratipay.com/Software-Engineering-FAQ/)
 
 Can I find popular interview questions?
