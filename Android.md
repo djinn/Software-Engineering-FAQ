@@ -5,7 +5,7 @@ Concept
 =======
 Android Play Store is filled with apps for everything possible. Most apps will not attract any attention from normal users. To create a successful app, start with thinking, who will user your app and Why? Even better to start with a specific users problem. That user could be even you. Once you have pinned down who is your user and why she uses your app. Next steps become easier to execute.
 
-For look and UI, Google as already laid out [design principle guide](http://developer.android.com/design/get-started/principles.html). Many new designers and non-designers try Android and there is [creative vision](http://developer.android.com/design/get-started/creative-vision.html) specifically to guide baby steps. There are [design processes and UI Research](https://www.youtube.com/watch?v=6MOeVNbh9cY) video guide charting using ""Pulse Studies"" quickly validate designs with your users. 
+For look and UI, Google as already laid out [design principle guide](http://developer.android.com/design/get-started/principles.html). Many new designers and non-designers try Android and there is [creative vision](http://developer.android.com/design/get-started/creative-vision.html) specifically to guide baby steps. There are [design processes and UI Research](https://www.youtube.com/watch?v=6MOeVNbh9cY) video guide charting using **Pulse Studies** quickly validate designs with your users. 
 
 Development
 ===========
