@@ -23,6 +23,9 @@ Popular books for job interviews
 * [The Algorithm Design Manual](http://amzn.to/2hRB90e)
 * [Elements of Programming Interviews in Java](http://amzn.to/2l2VdSg)
 
+I want to learn programing Android Apps. Where do I start?
+==========================================================
+Please start with this [brief guide](Android.md) 
 
 What is the difference between Server-Side and Client-Side Programing?
 ======================================================================
