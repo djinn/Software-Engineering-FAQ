@@ -25,7 +25,7 @@ Popular books for job interviews
 
 I want to learn programing Android Apps. Where do I start?
 ==========================================================
-Please start with this [brief guide](Android.md) 
+Please start with this [brief guide](https://github.com/djinn/Software-Engineering-Questions-and-Answer-FAQ/blob/master/Android.md) 
 
 What is the difference between Server-Side and Client-Side Programing?
 ======================================================================
